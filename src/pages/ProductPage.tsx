@@ -14,9 +14,9 @@ export function ProductPage() {
 
     function closeModal() {
         if (modal) {
-            close();
+            close()
         } else {
-            open();
+            open()
         }
     }
 
